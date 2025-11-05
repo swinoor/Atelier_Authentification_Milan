@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile /home/etudiantmilan2/www/.htpasswd
+AuthUserFile /swinoor/Atelier_Authentification_Milan/blob/main/.htpasswd
 Require valid-user
